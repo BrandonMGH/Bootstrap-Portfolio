@@ -42,6 +42,8 @@ h1 {
     font-weight: 700;
     padding-bottom: 10px;
     padding-top: 75px;
+    margin: auto;
+    padding: 10px;
 }
 
 hr { 
@@ -168,4 +170,6 @@ hr {
     height: 50px;
   }
 
- 
+  /* body > .container {
+    padding-top: 60px;
+  } */
